@@ -1,0 +1,35 @@
+h1
+{
+	font-size: 50px;
+}
+
+hr
+{
+	background-color:grey;
+	height:1px;
+}
+body
+{
+	background-color:rgb(89,85,71);
+	padding:  0px 50px;
+}
+.yellow
+{
+	color: yellow;
+}
+
+.white
+{
+	color:white;
+}
+
+.red
+
+{
+	color: red;
+}
+
+.headcolors
+{
+	color:rgb(70, 163, 255);
+}
